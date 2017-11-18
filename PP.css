@@ -21,8 +21,8 @@ h2 {
 p {
   font-family: verdana;
   background-color: yellow;
-  margin: 25px 95px;
-  padding: 17px 15px;
+  margin: 25px 170px;
+  padding: 17px 40px;
   width: 1000px;
   box-sizing: border-box;
   font-size:17px;
@@ -39,8 +39,13 @@ img {
   display: block;
   margin: auto;
   width: 70%;
+  height: auto;
 
 }
 iframe {
-
+  height: 400px;
+  width: 65%;
+  background-color: black;
+  border: 2px solid black;
 }
+
