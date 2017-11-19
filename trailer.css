@@ -24,15 +24,6 @@ h2 {
 }
 p {
   font-family: fantasy;
-  font-size: 18px;
-  background-color: yellow;
-  margin-top: 10px;;
-  margin-bottom: 20px;
-  text-decoration: inherit;
-  display: block;
-}
-p {
-  font-family: fantasy;
   background-color: lightblue;
   margin: 15px 12.4%;
   padding: 17px 40px;
@@ -51,10 +42,10 @@ p {
   display: block;
 }
 iframe {
-  height: 400px;
-  width: 65%;
+  height: 200px;
+  width: 25%;
   background-color:rgb(50, 50, 75);
   border: 5px solid black;
   margin-top: 5;
-  margin-bottom: 45px;
+  margin-bottom: 15px;
 }
