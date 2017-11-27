@@ -1,0 +1,132 @@
+html,body {
+  background-color: lightblue;
+}
+#trailers h1{
+  color: slateblue;
+  text-align: center;
+  background-color: white;
+  border: 10px solid darkblue;
+  border-radius: 8px;
+  font-size: 50px;
+  font-family: 'arial',arial, sans-serif;
+}
+#trailers h2 {
+  color: navy;
+  text-align: center;
+  font-size: 30px;
+  text-decoration: underline;
+  font-family: 'courier new',courier, monospace;
+  font-weight: bold;
+}
+#trailers p {
+  font-family: verdana;
+  background-color: yellow;
+  margin: 25px 170px;
+  padding: 17px 40px;
+  width: 1000px;
+  box-sizing: border-box;
+  font-size:17px;
+  border: 1px solid black;
+  outline-style: solid;
+  outline-color: black;
+  outline: 5px solid black;
+  outline-offset: 3px;
+  color: black;
+  text-transform: capitalize;
+  line-height: normal;
+}
+img {
+  display: block;
+  margin: auto;
+  width: 70%;
+  height: auto;
+
+}
+iframe {
+  height: 400px;
+  width: 65%;
+  background-color: black;
+  border: 2px solid black;
+}
+header {
+  background: black;
+  color: white;
+  padding: 8px 0px 6px 40px;
+  height: 60px;
+
+
+}
+header h1 {
+  display: inline;
+  font-family: 'Oswald', sans-serif;
+  font-weight: 400;
+  font-size: 32px;
+  float: left;
+  margin-top: 0px
+  margin-right: 10px;
+  height: 10px;
+
+}
+nav ul {
+  display: inline;
+  padding: 0px;
+  float: left;
+
+
+}
+nav ul li {
+  display: inline-block;
+  list-style-type: none;
+  color: white;
+  float: left;
+  margin-left: 12px;
+}
+nav ul li a {
+  color: white;
+  text-decoration: none;
+}
+#nav {
+  font-family: 'Montserrat', sans-serif;
+}
+
+.homered{
+  background-color: red;
+  padding: 30px 10px 16px 10px;
+}
+
+.divider {
+  background-color: red;
+  height: 5px;
+}
+.homeblack:hover{
+  background-color: blue;
+  padding: 30px 10px 16px 10px;
+}
+footer{
+  padding: 1px;
+  margin-top: 10px
+  color:#ffffff;
+  background-color: black;
+  text-align: center;
+}
+footer p {
+  color: white;
+}
+.welcome {
+  background-color: black;
+  box-sizing: border-box;
+  text-align: center;
+  width: 100%;
+  position: relative;
+  padding:15px;
+  position: relative;
+
+  
+  
+}
+.container{
+    width: 90%;
+    margin: auto;
+    overflow: hidden;
+  }
+
