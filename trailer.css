@@ -22,10 +22,10 @@ html, body {
   font-weight: bold;
   text-transform: uppercase
 }
-#trailers p {
+#trailersp {
   font-family: fantasy;
   background-color: lightblue;
-  margin: 5px 10%;
+  margin: 15px 12.4%;
   padding: 17px 40px;
   width: 1000px;
   box-sizing: border-box;
@@ -40,6 +40,15 @@ html, body {
   line-height: normal;
   text-decoration: inherit;
   display: block;
+}
+iframe {
+  height: 200px;
+  width: 25%;
+  background-color:rgb(50, 50, 75);
+  border: 5px solid black;
+  margin-top: 5;
+  margin-bottom: 15px;
+}
 }
 iframe {
   height: 200px;
