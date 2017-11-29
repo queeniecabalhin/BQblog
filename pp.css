@@ -1,7 +1,7 @@
 html,body {
   background-color: lightblue;
 }
-#trailers h1{
+#trailersp h1{
   color: slateblue;
   text-align: center;
   background-color: white;
@@ -10,7 +10,7 @@ html,body {
   font-size: 50px;
   font-family: 'arial',arial, sans-serif;
 }
-#trailers h2 {
+#trailersp h2 {
   color: navy;
   text-align: center;
   font-size: 30px;
@@ -18,7 +18,7 @@ html,body {
   font-family: 'courier new',courier, monospace;
   font-weight: bold;
 }
-#trailers p {
+#trailersp p {
   font-family: verdana;
   background-color: yellow;
   margin: 25px 170px;
