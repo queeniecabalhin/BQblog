@@ -11,7 +11,7 @@ html, body {
   font-family: algerian;
   margin-top: 5px;
   margin-bottom: 17px;
-  text-transform: uppercase;
+  text-transform: uppercase; 
 }
 #trailers h2 {
   color: rgb(50, 50, 150);
