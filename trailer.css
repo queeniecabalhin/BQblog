@@ -42,8 +42,6 @@ html, body {
   display: grid;
   justify-items: center;
   justify-content: center;
-  align-items: stretch;
-  align-content: center;
 }
 iframe {
   height: 200px;
