@@ -39,7 +39,7 @@ html, body {
   text-transform: capitalize;
   line-height: normal;
   text-decoration: inherit;
-  display: block;
+  display: grid;
 }
 iframe {
   height: 200px;
