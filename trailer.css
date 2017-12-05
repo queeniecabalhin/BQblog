@@ -40,8 +40,6 @@ html, body {
   line-height: normal;
   text-decoration: inherit;
   display: grid;
-  grid-template-rows: repeat(5, 4px);
-  grid-gap:2px;
   justify-items: center;
   justify-content: center;
   align-items: stretch;
