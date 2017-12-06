@@ -24,14 +24,10 @@ html, body {
 }
 #trailers p {
   display: grid;
-  grid-template-columns: 50px 50px;
-  grid-template-rows: repeat(5, 450px);
-  grid-auto-rows:500px;
   justify-items: center;
   justify-content: center;
   align-items: stretch;
   align-content: center;
-  grid-auto-flow: column;
   font-family: fantasy;
   background-color: lightblue;
   margin: 25px 450px;
@@ -50,6 +46,7 @@ html, body {
   text-decoration: inherit;
 }
 iframe {
+  display: grid;
   height: 200px;
   width: 25%;
   background-color:rgb(50, 50, 75);
