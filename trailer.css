@@ -26,12 +26,10 @@ html, body {
   display: grid;
   justify-items: center;
   justify-content: center;
-  align-items: stretch;
-  align-content: center;
   font-family: fantasy;
   background-color: lightblue;
   margin: 25px 450px;
-  padding: 25px 50px;
+  padding: 25px 25px;
   width: 1000px;
   box-sizing: border-box;
   font-size:18px;
