@@ -22,27 +22,27 @@ html, body {
   font-weight: bold;
   text-transform: uppercase
 }
+
 #trailers p {
-  display: grid;
-  justify-items: center;
-  justify-content: center;
-  font-family: fantasy;
-  background-color: lightblue;
-  margin: 25px 450px;
-  padding: 25px 20px;
-  width: 1000px;
-  box-sizing: border-box;
-  font-size:18px;
-  border: 1px solid black;
-  outline-style: solid;
-  outline-color: black;
-  outline: 5px solid black;
-  outline-offset: 3px;
-  color: black;
-  text-transform: capitalize;
-  line-height: normal;
-  text-decoration: inherit;
+ font-family: fantasy;
+ background-color: lightblue;
+ margin: 25px 450px;
+ padding: 25px 50px;
+ width: 1000px;
+ box-sizing: border-box;
+ font-size:18px;
+ border: 1px solid black;
+ outline-style: solid;
+ outline-color: black;
+ outline: 5px solid black;
+ outline-offset: 3px;
+ color: black;
+ text-transform: capitalize;
+ line-height: normal;
+ text-decoration: inherit;
+ display: block;
 }
+
 iframe {
   display: grid;
   height: 200px;
