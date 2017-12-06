@@ -24,23 +24,25 @@ html, body {
 }
 
 #trailers p {
- font-family: fantasy;
- background-color: lightblue;
- margin: 25px 450px;
- padding: 25px 50px;
- width: 1000px;
- box-sizing: border-box;
- font-size:18px;
- border: 1px solid black;
- outline-style: solid;
- outline-color: black;
- outline: 5px solid black;
- outline-offset: 3px;
- color: black;
- text-transform: capitalize;
- line-height: normal;
- text-decoration: inherit;
- display: block;
+ display:block;
+  justify-content: center;
+  align-content: center;
+  font-family: fantasy;
+  background-color: lightblue;
+  margin: auto;
+  padding: 25px 50px;
+  width: 1000px;
+  box-sizing: border-box;
+  font-size:18px;
+  border: 1px solid black;
+  outline-style: solid;
+  outline-color: black;
+  outline: 5px solid black;
+  outline-offset: 3px;
+  color: black;
+  text-transform: capitalize;
+  line-height: normal;
+  text-decoration: inherit;
 }
 
 iframe {
