@@ -21,7 +21,7 @@ html,body {
 #trailers p {
   font-family: verdana;
   background-color: yellow;
-  margin: 3% 4%;
+  margin: 2% auto;
   padding: 17px 40px;
   width: 1000px;
   box-sizing: border-box;
