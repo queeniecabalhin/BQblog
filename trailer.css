@@ -48,8 +48,6 @@ iframe {
   height: 200px;
   width: 25;
   min-width: 45%;
-  max-width: 55%;
-  max-height: 250px;
   min-height: 200px;
   background-color:rgb(50, 50, 75);
   border: 5px solid black;
