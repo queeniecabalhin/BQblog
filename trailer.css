@@ -24,13 +24,13 @@ html, body {
 }
 
 #trailers p {
- display:block;
+  display:block;
   font-family: fantasy;
   background-color: lightblue;
-  margin: auto;
-  padding: 25px 50px;
-  width: 1000px;
-  box-sizing: border-box;
+  margin:auto;
+  padding: 20px 35px;
+  width: auto;
+  box-sizing:border-box;
   font-size:18px;
   border: 1px solid black;
   outline-style: solid;
@@ -39,20 +39,20 @@ html, body {
   outline-offset: 3px;
   color: black;
   text-transform: capitalize;
-  line-height: normal;
+  line-height: 1.4;
   text-decoration: inherit;
 }
 
 iframe {
   display: grid;
   height: 200px;
-  width: 25%;
-  min-width: 25%;
+  width: auto;
+  min-width: auto;
   min-height: 200px;
   background-color:rgb(50, 50, 75);
   border: 5px solid black;
-  margin-top: 5;
-  margin-bottom: 15px;
+  margin-top: 20px;
+  margin-bottom: 35px;
 }
 
 header {
